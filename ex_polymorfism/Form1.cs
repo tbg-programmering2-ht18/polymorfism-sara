@@ -22,7 +22,7 @@ namespace ex_polymorfism
 
         }
 
-        private void btnCreate_Click(object sender, EventArgs e)
+        private void btnCreate_Click(object sender, EventArgs e) //Comment
         {
             A obj;
 
